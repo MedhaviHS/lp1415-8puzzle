@@ -21,4 +21,4 @@ resolver o puzzle de 8.
 
 Mais informação no [Enunciado do Projecto][1]
 
-[1]: Enunciado_LP.pdf "Projecto de LP - 14'15"
+[1]: Enunciado_LP.pdf "Projecto de LP - 2014'15"
