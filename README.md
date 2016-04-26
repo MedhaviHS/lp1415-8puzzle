@@ -3,7 +3,7 @@
 
 ---
 
-## Descrição do Problema
+### Descrição do Problema
 
 O puzzle de 8 é uma versão simplificada do puzzle de 15 (também chamado puzzle 
 Gem, puzzle Boss, jogo dos quinze e quadrado místico) que contém 8 quadrados 
